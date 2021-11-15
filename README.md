@@ -3,7 +3,7 @@ Case Study
 
 Task 1: [data_analysis.ipynb](https://github.com/ZehraK/Soostone/blob/main/data_analysis.ipynb)
 
-Task 2: [queriers.sql](https://github.com/ZehraK/Soostone/blob/main/queries.sql)
+Task 2: [queries.sql](https://github.com/ZehraK/Soostone/blob/main/queries.sql)
 
 Task 3: ML Baseline Model https://colab.research.google.com/drive/1Soz56zt1n445FG8Ptaa65veS-RgchXNm?usp=sharing
 
