@@ -1,4 +1,3 @@
-# Soostone
 Case Study
 
 Task 1: [data_analysis.ipynb](https://github.com/ZehraK/Soostone/blob/main/data_analysis.ipynb)
